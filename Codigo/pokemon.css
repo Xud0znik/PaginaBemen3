@@ -1,0 +1,154 @@
+h1 {
+text-align: center;
+font-family:fantasy;
+font-size:50px;
+color:white;
+text-shadow: 7px  8px 5px black,
+             6px  6px 7px black,
+            -1px  0px 0px black,
+             1px -1px 5px black;
+}
+
+h3 {
+position: relative;
+text-align: center;
+color:white;
+background-color: black;
+left: 15%;
+width: 75%;
+height: 30px;
+}
+
+body {
+width: 99%;
+background-image: url('E:/M8UF5/Codigo/fotos/fondo.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+p {
+text-align: center;
+}
+
+p {
+font-family:cursive;
+font-size:20px;
+color:white;
+text-shadow: 2px  1px 1px black,
+             1px  1px 1px black,
+            -1px  0px 0px black,
+             1px -1px 1px black;
+}
+
+li {
+margin-bottom: 1em;
+color:white;
+}
+
+.infos1 {
+position: relative;
+font-family:cursive;
+border-radius: 10px;
+width: 100%;
+top: 5%;
+float: left;
+}
+
+.infos2 {
+position: relative;
+font-family:cursive;
+border-radius: 10px;
+width: 100%;
+top: 10%;
+float: left;
+}
+
+.infos3 {
+position: relative;
+font-family:cursive;
+border-radius: 10px;
+width: 100%;
+top: 5%;
+float: left;
+}
+
+.info {
+width: 90%;
+float: left;
+background-color: black;
+border-radius: 30px;
+}
+
+.info1 {
+width: 90%;
+float: left;
+background-color: black;
+border-radius: 30px;
+}
+
+.info2 {
+width: 90%;
+float: left;
+background-color: black;
+border-radius: 30px;
+}
+
+.bord {
+width: 5%;
+float: left;
+}
+
+.todos1 {  /* primero */ 
+background: url('E:/M8UF5/Codigo/fotos/rojo.jpg') no-repeat center center/cover;
+border-radius: 280px/100px;
+border: 6px solid black;
+width: 80%;
+height: 450px;
+text-align: center;
+} 
+
+.todos2 { /* segundo */
+background: url('E:/M8UF5/Codigo/fotos/azul.jpg') no-repeat center center/cover;
+border-radius: 280px/100px;
+border: 6px solid black;
+width: 80%;
+height: 450px;
+text-align: center;
+} 
+
+.todos3 { /* trecero */
+background: url('E:/M8UF5/Codigo/fotos/amarillo.jpg') no-repeat center center/cover;
+border-radius: 280px/100px;
+border: 6px solid black;
+width: 80%;
+height: 450px;
+float: left;
+text-align: center;
+} 
+
+.pino {
+width: 100%;
+float: left;
+}
+
+.s {
+width: 31%;
+float: left;
+}
+
+.ss {
+width: 31%;
+float: left;
+}
+
+.sss {
+width: 31%;
+float: left;
+}
+
+.roto {
+    width: 100%;
+    float: left;
+}
+
